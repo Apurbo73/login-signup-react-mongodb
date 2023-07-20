@@ -40,7 +40,7 @@ const Signup = () => {
       </form>
       <br />
       <p>Or</p>
-      <Link to="/signup">signup</Link>
+      <Link to="/signup">signup</Link> <br />
     </div>
   );
 };
